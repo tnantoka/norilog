@@ -19,7 +19,7 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
 
 リポジトリーからコードを取得し、その下にvenv環境を用意します::
 
-   $ git clone https://github.com/beproud/norilog
+   $ git clone https://github.com/tnantoka/norilog
    $ cd norilog
    $ python3 -m venv venv
    $ source venv/bin/activate
