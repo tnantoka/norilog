@@ -48,6 +48,7 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
      (venv) $ deactivate
      $ python3 -m venv --clear venv
      $ source venv/bin/activate
-     (venv) $ pip install -e ./norilog
+     (venv) $ pip install -e .
+     (venv) $ pip freeze > requirements.txt
 
-3. setup.pyをリポジトリーにコミットする
+3. setup.pyとrequirements.txtをリポジトリーにコミットする

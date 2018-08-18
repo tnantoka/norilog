@@ -1,0 +1,7 @@
+click==6.7
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+-e git+git@github.com:tnantoka/norilog.git@bfac9cc987447f65469be0b5b1c728d4dd555cdb#egg=norilog
+Werkzeug==0.14.1
