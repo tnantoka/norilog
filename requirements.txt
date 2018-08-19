@@ -1,7 +1,18 @@
+bleach==2.1.4
+cffi==1.11.5
 click==6.7
+cmarkgfm==0.4.2
+docutils==0.14
 Flask==1.0.2
+future==0.16.0
+html5lib==1.0.1
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
--e git+git@github.com:tnantoka/norilog.git@bfac9cc987447f65469be0b5b1c728d4dd555cdb#egg=norilog
+-e git+git@github.com:tnantoka/norilog.git@d405bd9c05b1d9472cc7faf852670d4ba0dae040#egg=norilog
+pycparser==2.18
+Pygments==2.2.0
+readme-renderer==21.0
+six==1.11.0
+webencodings==0.5.1
 Werkzeug==0.14.1
